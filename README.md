@@ -121,7 +121,7 @@ This project is licensed under the MIT License.
 
 - **LangChain** for enabling seamless AI-powered retrieval.
 - **FAISS** for efficient vector search.
-- **Google Generative AI** for language model support.
+- **Gemini AI** for language model support.
 - **SentenceTransformers** for embeddings.
 
 ## Contact
